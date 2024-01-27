@@ -32,27 +32,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
-CCTV-4K,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV-8K,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV-1,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV-2,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV-3,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV-4,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV-5,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV-5+,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV-6,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV-7,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV-8,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV-9,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV-10,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV-11,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV-12,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV-13,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV-14,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV-15,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV-16,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV-16 4K,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
-CCTV-17,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
 
 黑龙江,#genre#
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
